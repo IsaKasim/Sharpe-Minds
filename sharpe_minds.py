@@ -7,7 +7,7 @@ import math
 
 nInst=100
 currentPos = np.zeros(nInst)
-POSITION_LIMIT = 10000
+POSITION_LIMIT = 9000
 
 histArbPortfolio = []
 for x in range(6):
